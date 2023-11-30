@@ -1,0 +1,5 @@
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\bin\Release\net8.0\publish\PracticaUF1.exe
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\bin\Release\net8.0\publish\PracticaUF1.dll
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\bin\Release\net8.0\publish\PracticaUF1.deps.json
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\bin\Release\net8.0\publish\PracticaUF1.runtimeconfig.json
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\bin\Release\net8.0\publish\PracticaUF1.pdb

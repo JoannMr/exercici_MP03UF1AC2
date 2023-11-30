@@ -1,0 +1,15 @@
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\bin\Release\net8.0\PracticaUF1.exe
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\bin\Release\net8.0\PracticaUF1.deps.json
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\bin\Release\net8.0\PracticaUF1.runtimeconfig.json
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\bin\Release\net8.0\PracticaUF1.dll
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\bin\Release\net8.0\PracticaUF1.pdb
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\obj\Release\net8.0\PracticaUF1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\obj\Release\net8.0\PracticaUF1.AssemblyInfoInputs.cache
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\obj\Release\net8.0\PracticaUF1.AssemblyInfo.cs
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\obj\Release\net8.0\PracticaUF1.csproj.CoreCompileInputs.cache
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\obj\Release\net8.0\PracticaUF1.sourcelink.json
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\obj\Release\net8.0\PracticaUF1.dll
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\obj\Release\net8.0\refint\PracticaUF1.dll
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\obj\Release\net8.0\PracticaUF1.pdb
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\obj\Release\net8.0\PracticaUF1.genruntimeconfig.cache
+C:\Users\joanm\OneDrive\Desktop\1rDAW\PROGRAMACION\PROYECTOS\PROYECTO GRANDE 1\PracticaUF1\obj\Release\net8.0\ref\PracticaUF1.dll
